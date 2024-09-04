@@ -1,1 +1,1 @@
-Anlayamazsın hayal kırıklıklarımı
+V1.2
