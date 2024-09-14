@@ -1,1 +1,1 @@
-![Kakegurui](https://github.com/user-attachments/assets/2b22d6c0-03e2-4365-afd0-5d45757c2a82)
+![ab67616d0000b27300dd6c4c19c13d5e](https://github.com/user-attachments/assets/51f7c099-9b80-4b36-8b78-9c508876408a)
